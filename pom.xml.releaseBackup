@@ -11,7 +11,7 @@
 
     <groupId>guru.springframework</groupId>
     <artifactId>MySpringPetClinic</artifactId>
-    <version>0.0.3</version>
+    <version>0.0.3-SNAPSHOT</version>
 
     <packaging>pom</packaging>
     <name>MySpringPetClinic</name>
@@ -59,7 +59,6 @@
         <developerConnection>scm:git:git@github.com:Lele97/MySpringPetClinic.git</developerConnection>
         <connection>scm:git:git@github.com:Lele97/MySpringPetClinic.git</connection>
         <url>https://github.com/Lele97/MySpringPetClinic.git</url>
-        <tag>0.0.3</tag>
-  </scm>
+    </scm>
 
 </project>
