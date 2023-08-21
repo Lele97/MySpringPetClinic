@@ -48,15 +48,15 @@
                         </checkModificationExclude>
                     </checkModificationExcludes>
                     <goals>install</goals>
-                   <!-- <autoVersionSubmodules>true</autoVersionSubmodules>-->
+                    <!-- <autoVersionSubmodules>true</autoVersionSubmodules>-->
                 </configuration>
             </plugin>
         </plugins>
     </build>
 
-  <scm>
+    <scm>
         <developerConnection>scm:git:git@github.com:Lele97/MySpringPetClinic.git</developerConnection>
-    <tag>MySpringPetClinic-0.0.3</tag>
+      <tag>MySpringPetClinic-0.0.3</tag>
   </scm>
 
 </project>
