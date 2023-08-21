@@ -59,7 +59,7 @@
         <developerConnection>scm:git:git@github.com:Lele97/MySpringPetClinic.git</developerConnection>
         <connection>scm:git:git@github.com:Lele97/MySpringPetClinic.git</connection>
         <url>https://github.com/Lele97/MySpringPetClinic.git</url>
-        <tag>0.0.3</tag>
-    </scm>
+      <tag>0.0.3</tag>
+  </scm>
 
 </project>
