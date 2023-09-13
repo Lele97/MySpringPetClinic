@@ -1,8 +1,8 @@
-package guru.springframework.myspringpetclinic.model;
+package guru.springframework.myspringpetclinic.model.model;
 
 import java.util.Locale;
 
-public class Pet {
+public class Pet extends BaseEntity{
 
     private PetType petType;
     private Owner ovner;
