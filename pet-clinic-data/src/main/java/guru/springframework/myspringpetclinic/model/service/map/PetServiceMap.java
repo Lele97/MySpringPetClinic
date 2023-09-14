@@ -1,6 +1,5 @@
 package guru.springframework.myspringpetclinic.model.service.map;
 
-import guru.springframework.myspringpetclinic.model.model.Owner;
 import guru.springframework.myspringpetclinic.model.model.Pet;
 import guru.springframework.myspringpetclinic.model.service.CrudService;
 
