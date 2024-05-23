@@ -1,24 +1,14 @@
 package guru.springframework.myspringpetclinic.model.model;
 
-public class Person  extends BaseEntity{
+import jakarta.persistence.Column;
+import lombok.Data;
+import lombok.EqualsAndHashCode;
+
+@EqualsAndHashCode(callSuper = true)
+@Data
+public class Person extends BaseEntity {
+
     private String fristName;
+
     private String lastName;
-
-    public String getFristName() {
-        return fristName;
-    }
-
-    public void setFristName(String fristName) {
-        this.fristName = fristName;
-    }
-
-    public String getLastName() {
-        return lastName;
-    }
-
-    public void setLastName(String lastName) {
-        this.lastName = lastName;
-    }
-
-
 }
